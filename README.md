@@ -1,4 +1,4 @@
-# PROJECT-QUIZ-SPANISH-LANGUAGE
+# PROJECT-REACT-TO-DO-APP
 >application in React with basic functionality
 > Live demo [_here_](https://dudekrystian.github.io/PROJECT-REACT-TO-DO-APP/).
 
